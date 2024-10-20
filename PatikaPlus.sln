@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if-else-odev", "if-else-odev\if-else-odev.csproj", "{E3DA8326-DE51-4806-A79C-84D9208810A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "if-else-odev", "if-else-odev\if-else-odev.csproj", "{E3DA8326-DE51-4806-A79C-84D9208810A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch-case-odev", "switch-case-odev\switch-case-odev.csproj", "{7152AFAD-6E2B-4A5A-B115-A76BC52CD437}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switch-case-odev", "switch-case-odev\switch-case-odev.csproj", "{7152AFAD-6E2B-4A5A-B115-A76BC52CD437}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "milyoner-odev", "milyoner-odev\milyoner-odev.csproj", "{6AD53DBF-D12E-4862-9093-8388F1DE34A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7152AFAD-6E2B-4A5A-B115-A76BC52CD437}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7152AFAD-6E2B-4A5A-B115-A76BC52CD437}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7152AFAD-6E2B-4A5A-B115-A76BC52CD437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD53DBF-D12E-4862-9093-8388F1DE34A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD53DBF-D12E-4862-9093-8388F1DE34A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD53DBF-D12E-4862-9093-8388F1DE34A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD53DBF-D12E-4862-9093-8388F1DE34A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
