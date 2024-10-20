@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do-while-odev", "do-while-o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "holiday-app-odev", "holiday-app-odev\holiday-app-odev.csproj", "{CE3F7B32-A6D9-4550-B224-1E7F4610B9DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "method-odev", "method-odev\method-odev.csproj", "{BBC854F9-6E8B-44D8-A5FA-D62EEA6B074B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{CE3F7B32-A6D9-4550-B224-1E7F4610B9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE3F7B32-A6D9-4550-B224-1E7F4610B9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE3F7B32-A6D9-4550-B224-1E7F4610B9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC854F9-6E8B-44D8-A5FA-D62EEA6B074B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBC854F9-6E8B-44D8-A5FA-D62EEA6B074B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBC854F9-6E8B-44D8-A5FA-D62EEA6B074B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBC854F9-6E8B-44D8-A5FA-D62EEA6B074B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
