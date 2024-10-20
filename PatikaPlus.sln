@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switch-case-odev", "switch-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "milyoner-odev", "milyoner-odev\milyoner-odev.csproj", "{6AD53DBF-D12E-4862-9093-8388F1DE34A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for-odev", "for-odev\for-odev.csproj", "{17156AAC-A081-47CD-B3BA-3B53870BD4F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6AD53DBF-D12E-4862-9093-8388F1DE34A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AD53DBF-D12E-4862-9093-8388F1DE34A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AD53DBF-D12E-4862-9093-8388F1DE34A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17156AAC-A081-47CD-B3BA-3B53870BD4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17156AAC-A081-47CD-B3BA-3B53870BD4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17156AAC-A081-47CD-B3BA-3B53870BD4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17156AAC-A081-47CD-B3BA-3B53870BD4F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
