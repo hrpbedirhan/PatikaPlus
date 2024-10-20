@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for-odev", "for-odev\for-od
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while-odev", "while-odev\while-odev.csproj", "{3B77578D-8AB6-4FDE-9CB1-F3C4F2AD9401}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "do-while-odev", "do-while-odev\do-while-odev.csproj", "{4D51AA96-6BCD-43DB-ACA9-F436E778EFFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3B77578D-8AB6-4FDE-9CB1-F3C4F2AD9401}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B77578D-8AB6-4FDE-9CB1-F3C4F2AD9401}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B77578D-8AB6-4FDE-9CB1-F3C4F2AD9401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D51AA96-6BCD-43DB-ACA9-F436E778EFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D51AA96-6BCD-43DB-ACA9-F436E778EFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D51AA96-6BCD-43DB-ACA9-F436E778EFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D51AA96-6BCD-43DB-ACA9-F436E778EFFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
