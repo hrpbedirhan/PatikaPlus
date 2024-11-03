@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance-odev", "inherit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorphism-odev", "polymorphism-odev\polymorphism-odev.csproj", "{7BE6DC20-081D-4D6E-A893-7C034F6B1690}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstraction-odev", "abstraction-odev\abstraction-odev.csproj", "{D983E930-3C60-49EB-B357-DEB3290C3AE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{7BE6DC20-081D-4D6E-A893-7C034F6B1690}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BE6DC20-081D-4D6E-A893-7C034F6B1690}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BE6DC20-081D-4D6E-A893-7C034F6B1690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D983E930-3C60-49EB-B357-DEB3290C3AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D983E930-3C60-49EB-B357-DEB3290C3AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D983E930-3C60-49EB-B357-DEB3290C3AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D983E930-3C60-49EB-B357-DEB3290C3AE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
