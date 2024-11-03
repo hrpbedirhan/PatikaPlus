@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstraction-odev", "abstrac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hafta4-kapanis", "hafta4-kapanis\hafta4-kapanis.csproj", "{20DF0CE3-B2C1-47DC-A4AC-44E50A66D81A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array-odev", "array-odev\array-odev.csproj", "{7E02D54D-FDBC-4189-82A5-F540EF783B9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{20DF0CE3-B2C1-47DC-A4AC-44E50A66D81A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20DF0CE3-B2C1-47DC-A4AC-44E50A66D81A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20DF0CE3-B2C1-47DC-A4AC-44E50A66D81A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E02D54D-FDBC-4189-82A5-F540EF783B9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E02D54D-FDBC-4189-82A5-F540EF783B9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E02D54D-FDBC-4189-82A5-F540EF783B9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E02D54D-FDBC-4189-82A5-F540EF783B9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
