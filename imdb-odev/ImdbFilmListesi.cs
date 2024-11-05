@@ -10,5 +10,6 @@ namespace imdb_odev
     {
         public string Isim { get; set; }
         public double ImdbPuani { get; set; }
+        //saçma işler
     }
 }

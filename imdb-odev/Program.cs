@@ -13,6 +13,7 @@
                 Console.Write("Film adı giriniz: ");
                 string isim = Console.ReadLine();
 
+
                 Console.Write("IMDb puanını giriniz: ");
                 double puan;
                 while (!double.TryParse(Console.ReadLine(), out puan))
