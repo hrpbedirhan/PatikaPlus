@@ -27,23 +27,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ctor-odev", "ctor-odev\ctor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kutuphane-odev", "kutuphane-odev\kutuphane-odev.csproj", "{C89D9B1C-48F3-42B3-9CF4-467C6871773A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "encapsulation-odev", "encapsulation-odev\encapsulation-odev.csproj", "{E44AE4FD-C173-4B9A-A82D-B65BDBC2FBA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "encapsulation-odev", "encapsulation-odev\encapsulation-odev.csproj", "{E44AE4FD-C173-4B9A-A82D-B65BDBC2FBA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance-odev", "inheritance-odev\inheritance-odev.csproj", "{96D4BFED-5D4F-4743-9205-5158880C84C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "inheritance-odev", "inheritance-odev\inheritance-odev.csproj", "{96D4BFED-5D4F-4743-9205-5158880C84C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorphism-odev", "polymorphism-odev\polymorphism-odev.csproj", "{7BE6DC20-081D-4D6E-A893-7C034F6B1690}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "polymorphism-odev", "polymorphism-odev\polymorphism-odev.csproj", "{7BE6DC20-081D-4D6E-A893-7C034F6B1690}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "abstraction-odev", "abstraction-odev\abstraction-odev.csproj", "{D983E930-3C60-49EB-B357-DEB3290C3AE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "abstraction-odev", "abstraction-odev\abstraction-odev.csproj", "{D983E930-3C60-49EB-B357-DEB3290C3AE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hafta4-kapanis", "hafta4-kapanis\hafta4-kapanis.csproj", "{20DF0CE3-B2C1-47DC-A4AC-44E50A66D81A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hafta4-kapanis", "hafta4-kapanis\hafta4-kapanis.csproj", "{20DF0CE3-B2C1-47DC-A4AC-44E50A66D81A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "array-odev", "array-odev\array-odev.csproj", "{7E02D54D-FDBC-4189-82A5-F540EF783B9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "array-odev", "array-odev\array-odev.csproj", "{7E02D54D-FDBC-4189-82A5-F540EF783B9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "list-odev", "list-odev\list-odev.csproj", "{0377EC73-A074-4579-A4DC-DE009E998D98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "list-odev", "list-odev\list-odev.csproj", "{0377EC73-A074-4579-A4DC-DE009E998D98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kahve-list-odev", "kahve-list-odev\kahve-list-odev.csproj", "{0820BB15-250A-4C16-BCE7-0C944D94B0B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kahve-list-odev", "kahve-list-odev\kahve-list-odev.csproj", "{0820BB15-250A-4C16-BCE7-0C944D94B0B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imdb-odev", "imdb-odev\imdb-odev.csproj", "{731CB4F5-4FC4-4A46-852B-842E764B73BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "imdb-odev", "imdb-odev\imdb-odev.csproj", "{731CB4F5-4FC4-4A46-852B-842E764B73BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try-catch-odev", "try-catch-odev\try-catch-odev.csproj", "{721D2BF6-9D9B-4A88-9199-8189A817E8E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{731CB4F5-4FC4-4A46-852B-842E764B73BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{731CB4F5-4FC4-4A46-852B-842E764B73BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{731CB4F5-4FC4-4A46-852B-842E764B73BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{721D2BF6-9D9B-4A88-9199-8189A817E8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{721D2BF6-9D9B-4A88-9199-8189A817E8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{721D2BF6-9D9B-4A88-9199-8189A817E8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{721D2BF6-9D9B-4A88-9199-8189A817E8E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
