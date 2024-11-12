@@ -51,6 +51,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hafta5-kapanis", "hafta5-ka
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq-odev", "linq-odev\linq-odev.csproj", "{039F6893-E5C2-44EB-A3D3-C2937B553E8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patikafy-odev", "patikafy-odev\patikafy-odev.csproj", "{7EEE7BE6-4BB2-48C8-B062-B9F7774BA61C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{039F6893-E5C2-44EB-A3D3-C2937B553E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{039F6893-E5C2-44EB-A3D3-C2937B553E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{039F6893-E5C2-44EB-A3D3-C2937B553E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EEE7BE6-4BB2-48C8-B062-B9F7774BA61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EEE7BE6-4BB2-48C8-B062-B9F7774BA61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EEE7BE6-4BB2-48C8-B062-B9F7774BA61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EEE7BE6-4BB2-48C8-B062-B9F7774BA61C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
