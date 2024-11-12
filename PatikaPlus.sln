@@ -45,9 +45,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kahve-list-odev", "kahve-li
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "imdb-odev", "imdb-odev\imdb-odev.csproj", "{731CB4F5-4FC4-4A46-852B-842E764B73BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try-catch-odev", "try-catch-odev\try-catch-odev.csproj", "{721D2BF6-9D9B-4A88-9199-8189A817E8E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "try-catch-odev", "try-catch-odev\try-catch-odev.csproj", "{721D2BF6-9D9B-4A88-9199-8189A817E8E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hafta5-kapanis", "hafta5-kapanis\hafta5-kapanis.csproj", "{6441E742-F993-47F7-8E33-823F888EAA83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hafta5-kapanis", "hafta5-kapanis\hafta5-kapanis.csproj", "{6441E742-F993-47F7-8E33-823F888EAA83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq-odev", "linq-odev\linq-odev.csproj", "{039F6893-E5C2-44EB-A3D3-C2937B553E8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{6441E742-F993-47F7-8E33-823F888EAA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6441E742-F993-47F7-8E33-823F888EAA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6441E742-F993-47F7-8E33-823F888EAA83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{039F6893-E5C2-44EB-A3D3-C2937B553E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{039F6893-E5C2-44EB-A3D3-C2937B553E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{039F6893-E5C2-44EB-A3D3-C2937B553E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{039F6893-E5C2-44EB-A3D3-C2937B553E8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
