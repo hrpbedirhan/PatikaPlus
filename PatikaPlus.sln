@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq-odev", "linq-odev\linq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patikafy-odev", "patikafy-odev\patikafy-odev.csproj", "{7EEE7BE6-4BB2-48C8-B062-B9F7774BA61C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patikaflix-odev", "patikaflix-odev\patikaflix-odev.csproj", "{9CF553D0-D581-4DEB-ACE6-3A7EB0B1E66F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{7EEE7BE6-4BB2-48C8-B062-B9F7774BA61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EEE7BE6-4BB2-48C8-B062-B9F7774BA61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EEE7BE6-4BB2-48C8-B062-B9F7774BA61C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF553D0-D581-4DEB-ACE6-3A7EB0B1E66F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF553D0-D581-4DEB-ACE6-3A7EB0B1E66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF553D0-D581-4DEB-ACE6-3A7EB0B1E66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF553D0-D581-4DEB-ACE6-3A7EB0B1E66F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
