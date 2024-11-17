@@ -43,17 +43,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "list-odev", "list-odev\list
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "kahve-list-odev", "kahve-list-odev\kahve-list-odev.csproj", "{0820BB15-250A-4C16-BCE7-0C944D94B0B5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "imdb-odev", "imdb-odev\imdb-odev.csproj", "{731CB4F5-4FC4-4A46-852B-842E764B73BC}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "try-catch-odev", "try-catch-odev\try-catch-odev.csproj", "{721D2BF6-9D9B-4A88-9199-8189A817E8E2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hafta5-kapanis", "hafta5-kapanis\hafta5-kapanis.csproj", "{6441E742-F993-47F7-8E33-823F888EAA83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq-odev", "linq-odev\linq-odev.csproj", "{039F6893-E5C2-44EB-A3D3-C2937B553E8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "linq-odev", "linq-odev\linq-odev.csproj", "{039F6893-E5C2-44EB-A3D3-C2937B553E8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patikafy-odev", "patikafy-odev\patikafy-odev.csproj", "{7EEE7BE6-4BB2-48C8-B062-B9F7774BA61C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "patikafy-odev", "patikafy-odev\patikafy-odev.csproj", "{7EEE7BE6-4BB2-48C8-B062-B9F7774BA61C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patikaflix-odev", "patikaflix-odev\patikaflix-odev.csproj", "{9CF553D0-D581-4DEB-ACE6-3A7EB0B1E66F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "patikaflix-odev", "patikaflix-odev\patikaflix-odev.csproj", "{9CF553D0-D581-4DEB-ACE6-3A7EB0B1E66F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "library-management-odev", "library-management-odev\library-management-odev.csproj", "{53E8EA5A-B9F5-4755-A88D-DA8C5AF19D13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,10 +141,6 @@ Global
 		{0820BB15-250A-4C16-BCE7-0C944D94B0B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0820BB15-250A-4C16-BCE7-0C944D94B0B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0820BB15-250A-4C16-BCE7-0C944D94B0B5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{731CB4F5-4FC4-4A46-852B-842E764B73BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{731CB4F5-4FC4-4A46-852B-842E764B73BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{731CB4F5-4FC4-4A46-852B-842E764B73BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{731CB4F5-4FC4-4A46-852B-842E764B73BC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{721D2BF6-9D9B-4A88-9199-8189A817E8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{721D2BF6-9D9B-4A88-9199-8189A817E8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{721D2BF6-9D9B-4A88-9199-8189A817E8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -165,6 +161,10 @@ Global
 		{9CF553D0-D581-4DEB-ACE6-3A7EB0B1E66F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9CF553D0-D581-4DEB-ACE6-3A7EB0B1E66F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9CF553D0-D581-4DEB-ACE6-3A7EB0B1E66F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53E8EA5A-B9F5-4755-A88D-DA8C5AF19D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E8EA5A-B9F5-4755-A88D-DA8C5AF19D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E8EA5A-B9F5-4755-A88D-DA8C5AF19D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E8EA5A-B9F5-4755-A88D-DA8C5AF19D13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
