@@ -1,0 +1,38 @@
+﻿@model basic_MVC_odev.Models.CustomerOrderViewModel
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Müşteri ve Siparişler</title>
+</head>
+<body>
+    <h1>Müşteri Bilgileri</h1>
+    <p>İsim: @Model.Customer.FirstName @Model.Customer.LastName</p>
+    <p>E-posta: @Model.Customer.Email</p>
+
+    <h2>Siparişler</h2>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Sipariş ID</th>
+                <th>Ürün Adı</th>
+                <th>Fiyat</th>
+                <th>Miktar</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var order in Model.Orders)
+            {
+                <tr>
+                    <td>@order.Id</td>
+                    <td>@order.ProductName</td>
+                    <td>@order.Price</td>
+                    <td>@order.Quantity</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>
