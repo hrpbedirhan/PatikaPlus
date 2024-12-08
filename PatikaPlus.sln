@@ -57,9 +57,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "library-management-odev", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "group-join-odev", "group-join-odev\group-join-odev.csproj", "{D116AC75-A2AC-40C3-A1A8-41F9683319B2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp.net-core-empty-odev", "asp.net-core-empty-odev\asp.net-core-empty-odev.csproj", "{00DF84A3-D31A-4957-9F9D-1FB8C7B03B5B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "asp.net-core-empty-odev", "asp.net-core-empty-odev\asp.net-core-empty-odev.csproj", "{00DF84A3-D31A-4957-9F9D-1FB8C7B03B5B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basic-MVC-odev", "basic-MVC-odev\basic-MVC-odev.csproj", "{42CFA459-05DC-4EBF-9626-AD4823DD3596}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basic-MVC-odev", "basic-MVC-odev\basic-MVC-odev.csproj", "{42CFA459-05DC-4EBF-9626-AD4823DD3596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrazyMusiciansApi", "CrazyMusiciansApi\CrazyMusiciansApi.csproj", "{67263480-F24C-4665-B58A-0FB8F3976FA4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{42CFA459-05DC-4EBF-9626-AD4823DD3596}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42CFA459-05DC-4EBF-9626-AD4823DD3596}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42CFA459-05DC-4EBF-9626-AD4823DD3596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67263480-F24C-4665-B58A-0FB8F3976FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67263480-F24C-4665-B58A-0FB8F3976FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67263480-F24C-4665-B58A-0FB8F3976FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67263480-F24C-4665-B58A-0FB8F3976FA4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
