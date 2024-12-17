@@ -63,9 +63,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "basic-MVC-odev", "basic-MVC
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrazyMusiciansApi", "CrazyMusiciansApi\CrazyMusiciansApi.csproj", "{67263480-F24C-4665-B58A-0FB8F3976FA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstBasic", "CodeFirstBasic\CodeFirstBasic.csproj", "{0D2C9612-6162-4126-B075-B103D8A25CF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirstBasic", "CodeFirstBasic\CodeFirstBasic.csproj", "{0D2C9612-6162-4126-B075-B103D8A25CF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstRelation", "CodeFirstRelation\CodeFirstRelation.csproj", "{1C51A755-53BB-4B78-880E-E3239EB935A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFirstRelation", "CodeFirstRelation\CodeFirstRelation.csproj", "{1C51A755-53BB-4B78-880E-E3239EB935A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E336C19E-FE0B-44B1-B9A3-04EE7CCE9AA7}"
+	ProjectSection(SolutionItems) = preProject
+		README.MD = README.MD
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Survivor", "Survivor\Survivor.csproj", "{5643B537-46FA-4963-B997-1F818849E80B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +208,10 @@ Global
 		{1C51A755-53BB-4B78-880E-E3239EB935A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C51A755-53BB-4B78-880E-E3239EB935A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C51A755-53BB-4B78-880E-E3239EB935A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5643B537-46FA-4963-B997-1F818849E80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5643B537-46FA-4963-B997-1F818849E80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5643B537-46FA-4963-B997-1F818849E80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5643B537-46FA-4963-B997-1F818849E80B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
