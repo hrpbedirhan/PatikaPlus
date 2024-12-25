@@ -146,4 +146,4 @@ Ensure the `Jwt:Key` is at least 32 characters long for secure token generation.
 
 ---
 
-![Response Token](./assets/token.png)
+![Response Token](./assets/Token.png)
